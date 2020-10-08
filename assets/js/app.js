@@ -7,4 +7,3 @@ spanMenu.addEventListener("click",function(e){
     console.log("j'ai cliqué sur le burger");
     menuToggle.classList.toggle("open");
 });
-
